@@ -1,6 +1,6 @@
 # RomanToArabic
 
-Ecrire une fonction qui transforme les nombres romains en nombres arabes
+Ecrire une méthode qui transforme les nombres romains en nombres arabes.
 
 Rappel des commandes junit :
 
